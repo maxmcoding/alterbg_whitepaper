@@ -8,6 +8,10 @@ This token is used as the main cryptocurrency / token within the entire Altered 
 
 All in-game purchases, manufacturing commissions and item repair commissions will be redistributed by 80% again among all players once the PlayToEarn base Stock limit is exhausted. With this we hope that the game will remain in force over time and the wealth of tokens generated will be shared among the players who gave us their trust over the years.
 
+
+
+![](../../.gitbook/assets/allocate.png)
+
 ### Initial distribution of tokens
 
 | Play to Earn                     | 20,000,000 | 20% |
