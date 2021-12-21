@@ -4,7 +4,7 @@ description: Etapa:2 .Que gane el mas hábil
 
 # PvP
 
-![](../.gitbook/assets/posePvP1.png)
+![](<../.gitbook/assets/posePvP1 (1).png>)
 
 Battles between players will always be a great opportunity to improve your skills, but mainly the various game modes will allow you to win excellent prizes if you rank within the top.
 

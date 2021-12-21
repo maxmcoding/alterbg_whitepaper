@@ -8,6 +8,6 @@ The private sale will have a 20% discount, the date will be announced by the off
 {% tab title="Description" %}
 | Token Amount | % of total supply | Unlock schedule      |
 | ------------ | ----------------- | -------------------- |
-| 5.000.000    | 5%                | Gradual over 2 years |
+| 15.000.000   | 15%               | Gradual over 2 years |
 {% endtab %}
 {% endtabs %}

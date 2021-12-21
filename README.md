@@ -7,9 +7,9 @@ description: >-
 
 # Intro
 
-![](.gitbook/assets/main.png)
+![](<.gitbook/assets/main (1).png>)
 
-Welcome to this apocalyptic world where your fight is about to begin. At the beginning of the great collapse, mysterious creatures and powers from a terrible world began to emerge in ours; shortly thereafter they wiped out everything we knew.&#x20;
+Welcome to this apocalyptic world where your fight is about to begin. At the beginning of the great collapse, mysterious creatures and powers from a terrible world began to emerge in ours; shortly thereafter they wiped out everything we knew.
 
 Many were the lost battles and the soldiers who did not return. Someday everything will return to calm, and your help is necessary to reestablish that world we knew.
 
@@ -20,14 +20,3 @@ Every day you will find a tournaments that will help you to be a better warrior 
 When you explore the world and have the fortune to discover some enemy military fortress, you can look for reinforcements to defeat them and conquer the territory, sometimes you can get rewards for your feat
 
 To Battle Soldier!
-
-
-
-
-
-
-
-
-
-
-

@@ -1,6 +1,6 @@
 # Types of NFT
 
-![](<../.gitbook/assets/items (1).png>)
+![](<../.gitbook/assets/items (1) (1).png>)
 
 Game Items are categorized into 8 different NFT types, which have their own functionalities and / or characteristics. They can be obtained both by PvE battles and by exchanging them in the store.
 

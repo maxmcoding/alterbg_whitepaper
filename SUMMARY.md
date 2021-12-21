@@ -27,8 +27,8 @@
 ## Crypto <a href="#token" id="token"></a>
 
 * [Token](token/token/README.md)
-  * [Play to Earn](token/token/play-to-earn.md)
   * [Sustainability](token/token/sustainability.md)
+  * [Play to Earn](token/token/play-to-earn.md)
   * [Staking Rewards](token/token/staking-rewards.md)
   * [Platform Fund](token/token/game-platform-and-web-servers.md)
   * [Team](token/token/team.md)

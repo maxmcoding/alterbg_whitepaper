@@ -1,6 +1,6 @@
 # Token
 
-The Altered Battleground Token ($[AlterBg](https://bscscan.com/token/0xd343f58aCb66c23daBeadEA11F605165eDB4E5B0))  use ERC-20 / BEP-20 technology. Contract 0xd343f58aCb66c23daBeadEA11F605165eDB4E5B0
+The Altered Battleground Token ($[AlterBg](https://bscscan.com/token/0xd343f58aCb66c23daBeadEA11F605165eDB4E5B0)) use ERC-20 / BEP-20 technology. Contract 0xd343f58aCb66c23daBeadEA11F605165eDB4E5B0
 
 The AlterBg token distribution will be one hundred million tokens (100,000,000) that will be distributed over \~ five years.
 
@@ -10,14 +10,12 @@ All in-game purchases, manufacturing commissions and item repair commissions wil
 
 ### Initial distribution of tokens
 
-| Play to Earn                      | 20,000,000 | 20% |
-| --------------------------------- | ---------- | --- |
-| Staking Rewards                   | 30.000.000 | 30% |
-| Platform fund                     | 5.000.000  | 5%  |
-| Team (4 year lock up period)      | 10.000.000 | 10% |
-| Advisors  (5 year lock up period) | 5.000.000  | 5%  |
-| Private Sale                      | 5.000.000  | 5%  |
-| Public Sale                       | 25.000.000 | 25% |
-
-
-
+| Play to Earn                     | 20,000,000 | 20% |
+| -------------------------------- | ---------- | --- |
+| Staking Rewards                  | 30.000.000 | 25% |
+| Platform fund                    | 5.000.000  | 5%  |
+| Team (4 year lock up period)     | 10.000.000 | 10% |
+| Advisors (5 year lock up period) | 5.000.000  | 5%  |
+| Private Sale                     | 5.000.000  | 15% |
+| Public Sale                      | 25.000.000 | 15% |
+| Marketing                        | 5.000.000  | 5%  |
