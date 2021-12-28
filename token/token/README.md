@@ -17,7 +17,7 @@ All in-game purchases, manufacturing commissions and item repair commissions wil
 | Play to Earn                     | 20.000.000 |   20%   |
 | Staking Rewards                  | 20.000.000 |   20%   |
 | Public Sale                      | 20.000.000 |   20%   |
-| Private Sale                     | 10.000.000 |   15%   |
+| Private Sale                     | 15.000.000 |   15%   |
 | Team (4 year lock up period)     | 10.000.000 |   10%   |
 | Platform fund                    |  5.000.000 |    5%   |
 | Advisors (5 year lock up period) |  5.000.000 |    5%   |
