@@ -6,6 +6,6 @@ Starting in the first quarter of the official launch, players will be able to st
 {% tab title="Description" %}
 | Token Amount | % of total supply | Unlock schedule |
 | ------------ | ----------------- | --------------- |
-| 25.000.000   | 25%               | \~5 years       |
+| 20.000.000   | 20%               | \~5 years       |
 {% endtab %}
 {% endtabs %}

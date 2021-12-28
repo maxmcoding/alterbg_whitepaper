@@ -12,12 +12,14 @@ All in-game purchases, manufacturing commissions and item repair commissions wil
 
 ### Initial distribution of tokens
 
-| Play to Earn                     | 20,000,000 | 20% |
-| -------------------------------- | ---------- | --- |
-| Staking Rewards                  | 30.000.000 | 25% |
-| Platform fund                    | 5.000.000  | 5%  |
-| Team (4 year lock up period)     | 10.000.000 | 10% |
-| Advisors (5 year lock up period) | 5.000.000  | 5%  |
-| Private Sale                     | 5.000.000  | 5%  |
-| Public Sale                      | 25.000.000 | 25% |
-| Marketing                        | 5.000.000  | 5%  |
+| Purpose                          |   Amount   | Percent |
+| -------------------------------- | :--------: | :-----: |
+| Play to Earn                     | 20.000.000 |   20%   |
+| Staking Rewards                  | 20.000.000 |   20%   |
+| Public Sale                      | 20.000.000 |   20%   |
+| Private Sale                     | 10.000.000 |   15%   |
+| Team (4 year lock up period)     | 10.000.000 |   10%   |
+| Platform fund                    |  5.000.000 |    5%   |
+| Advisors (5 year lock up period) |  5.000.000 |    5%   |
+| Marketing                        |  5.000.000 |    5%   |
+

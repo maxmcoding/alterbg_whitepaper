@@ -1,11 +1,11 @@
 # Public Sale
 
-Amount distributed 25,000,000 tokens unlocked from day 0
+Unlocked from day 0
 
 {% tabs %}
 {% tab title="Description" %}
 | Token Amount | % of total supply | Unlock schedule |
 | ------------ | ----------------- | --------------- |
-| 25.000.000   | 25%               |                 |
+| 20.000.000   | 20%               |                 |
 {% endtab %}
 {% endtabs %}
