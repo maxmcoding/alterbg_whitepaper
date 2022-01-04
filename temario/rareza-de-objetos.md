@@ -8,8 +8,8 @@ The types of rarities and probability of obtaining Items of each type are the fo
 
 | Rarity Type | Probability of Finding it |
 | ----------- | ------------------------- |
-| Scrap       | 64.5%                     |
-| Normal      | 28.9%                     |
+| Scrap       | 46.7%                     |
+| Normal      | 46.7%                     |
 | Rare        | 5%                        |
 | Épic        | 1%                        |
 | Legendary   | 0.5%                      |
