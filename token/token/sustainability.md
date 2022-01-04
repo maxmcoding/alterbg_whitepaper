@@ -8,8 +8,8 @@ This circuit is highly influenced by the trends of social interactions in the on
 
 For example, these are some of the most notable features of liquid injection:
 
-* In the Market, all transactions carried out in BUSD or USDT, have a commission of 5%, of which 65% destined to inject liquidity to the token and 35% to cover operating expenses
-* With the Engineer, 75% of the value of the NFT token will be used for the injection of liquidity , the remaining 25% covers operating expenses and special events of the game
+* In the Market, all transactions carried out in BUSD or USDT, have a commission of 5%, of which 50% destined to inject liquidity to the token and 50% to cover operating expenses
+* With the Engineer, 50% of the value of the NFT token will be used for the injection of liquidity , the remaining 50% covers operating expenses and special events of the game
 * Elite PVP duels with registration price have a commission of 10% of the total paid, destined to inject liquidity and operating costs in varying percentage; the remaining 90% is awarded to the winning team
 * The Cost of repairing Items will be allocated to liquidity and Operational costs (% varied)
 * Other transactional Events will apply the same business logic
@@ -17,18 +17,3 @@ For example, these are some of the most notable features of liquid injection:
 ### Price Oracle
 
 In correlation with the above, transactions within the playable environment based on the AlterBg token, have a price regulated according to the BUSD referential value, for which there will always be a price balance regardless of the Token's referential value.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
