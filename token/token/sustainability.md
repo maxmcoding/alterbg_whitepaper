@@ -4,15 +4,25 @@
 
 In the AlterBg team and with the support of expert economists, we have defined a Fractional operability plan that allows the financial structure of this project to generate an endogenous liquidity circuit from InGame transactions.
 
-This circuit is highly influenced by the trends of social interactions in the online world, since as in other great titles, Altered BG is a completely Online world in real time in which, the interaction with the other members of the community, will encourage the acquisition and consumption of tradable items for the entertainment and display of customized characters. That is why in all transactions carried out within the playable environment, the majority of the Fee will be provided for the repurchase and continuous injection of liquidity to the AlterBg token.
+This circuit is highly influenced by trends in social interactions in the online world, since as in other great titles, Altered BG is a completely online world in real time in which interaction with other members of the community will encourage the acquisition. and consumption of marketable items for the entertainment and display of personalized characters. That is why in all the Transaction Fees carried out within the playable environment, it is divided to be used for the repurchase and continuous injection of liquidity to the AlterBg token.
 
-For example, these are some of the most notable features of liquid injection:
+In stage 1, based on a ratio of 100,000 active players per day, the liquid injection estimates would be as follows in the main processes:
 
-* In the Market, all transactions carried out in BUSD or USDT, have a commission of 5%, of which 50% destined to inject liquidity to the token and 50% to cover operating expenses
-* With the Engineer, 50% of the value of the NFT token will be used for the injection of liquidity , the remaining 50% covers operating expenses and special events of the game
-* Elite PVP duels with registration price have a commission of 10% of the total paid, destined to inject liquidity and operating costs in varying percentage; the remaining 90% is awarded to the winning team
-* The Cost of repairing Items will be allocated to liquidity and Operational costs (% varied)
-* Other transactional Events will apply the same business logic
+* The liquidity estimate obtained in private game modes (with an entry price) is 500 USD for every 10,000 USD
+* Liquidity obtained by the NFT mint is 5,000 USD for every 10,000 USD
+* Income earned through store transaction taxes is 250 USD for Every 10.000 USD
+* For secondary processes in which a commission or ingame price is charged, 50% of those obtained is injected into the Liquidity pool
+
+### Token Uses
+
+To maintain the stability of the token, we will use 2 tokens, the AlterBg token and BUSD. each of them is used in the following processes:
+
+* BUSD is used for Market transactions
+* AlterBg token is used for pay NFT Mint&#x20;
+* AlterBg token is used to pay the entry price in private games modes
+* AlterBg token is used to pay item repair
+* AlterBg token is used to purchase in-game crafting items
+* AlterBg token is used as a PlayToEarn prize ([10,000 AlterBg Daily](play-to-earn.md))
 
 ### Price Oracle
 
