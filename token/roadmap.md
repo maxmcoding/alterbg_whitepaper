@@ -12,7 +12,7 @@ Updated Nov 1, 2021
 * Q2 2022: Add Competitive PvP Mode duels
 * Q2 2022: Add PvE Mode Defense Against Hordes
 * Q3 2022: Staking
-* Q3 2022: Battlegrounds 10vs10
+* Q4 2022: Battlegrounds 10vs10
 * Q4 2022: Open World (Micro Version)
 * Q1 2023: Side missions with prizes in tokens
 * Q2 2023: Add Rival Faction
