@@ -10,7 +10,7 @@ In summary, the benefits delivered by the use of the creator code are as follows
 
 {% tabs %}
 {% tab title="Description" %}
-| Details            | % Discount | $ of the Fee as support to the creator |
+| Details            | % Discount | % of the Fee as support to the creator |
 | ------------------ | ---------- | -------------------------------------- |
 | Buy Started Pack   | 10%        | 5%                                     |
 | Mint of NFT        | 5%         | 5%                                     |
