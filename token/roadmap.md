@@ -13,11 +13,11 @@ Updated Nov 1, 2021
 * Q2 2022: Add PvE Mode Defense Against Hordes
 * Q3 2022: Staking
 * Q3 2022: Battlegrounds 10vs10
-* Q3 2022: Open World (Micro Version)
-* Q4 2022: Side missions with prizes in tokens
-* Q4 2022: Add Rival Faction
-* Q1 2023: Add Faction Wars
-* Q2 2023: Embody Creatures in Faction Battle
+* Q4 2022: Open World (Micro Version)
+* Q1 2023: Side missions with prizes in tokens
+* Q2 2023: Add Rival Faction
+* Q3 2023: Add Faction Wars
+* Q4 2023: Embody Creatures in Faction Battle
 * More and more ...
 
 Lapses may be subject to change.
