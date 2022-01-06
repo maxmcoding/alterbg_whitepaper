@@ -10,6 +10,7 @@
 
 ## Temario
 
+* [NFT](temario/nft.md)
 * [Types of NFT](temario/tipos-de-articulos.md)
 * [Item Rarity](temario/rareza-de-objetos.md)
 * [Diagrams](temario/diagramas.md)

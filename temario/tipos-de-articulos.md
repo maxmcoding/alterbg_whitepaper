@@ -1,7 +1,5 @@
 # Types of NFT
 
-![](<../.gitbook/assets/items (1) (1).png>)
-
 Game Items are categorized into 8 different NFT types, which have their own functionalities and / or characteristics. They can be obtained both by PvE battles and by exchanging them in the store.
 
 ### Categories
@@ -22,3 +20,4 @@ Game Items are categorized into 8 different NFT types, which have their own func
 * Agility: lightness of movement and increased height when jumping
 * Critical Chance: Chance to deal critical damage
 * Defense: Protection against damage received
+* Element
