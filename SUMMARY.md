@@ -7,7 +7,6 @@
 
 * [🎮 First steps](gameplay/first-steps.md)
 * [🥇 Battles](gameplay/Battles.md)
-* [🗺 World](gameplay/world.md)
 
 ## Temario
 
