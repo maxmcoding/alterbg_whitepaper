@@ -1,4 +1,4 @@
-# NFT
+# 👾 NFT
 
 ![](<../.gitbook/assets/items (1) (1).png>)
 

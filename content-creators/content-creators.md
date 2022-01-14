@@ -1,4 +1,4 @@
-# Content Creators
+# 📣 Content Creators
 
 As a content creator we know that your audience comes first, that is why we are excited to announce that in the coming days, you will have a registration section where you can offer your followers a special discount code in the "started" presale pack "of 10% of the published price.
 

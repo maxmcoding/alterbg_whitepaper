@@ -1,4 +1,4 @@
-# Citadel
+# 🌆 Citadel
 
 ![](<../.gitbook/assets/Map1 (1).png>)
 

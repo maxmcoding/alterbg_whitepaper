@@ -1,4 +1,4 @@
-# First steps
+# 🎮 First steps
 
 ![](<../.gitbook/assets/pose1 (2).png>)
 

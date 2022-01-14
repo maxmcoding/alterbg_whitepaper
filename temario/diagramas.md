@@ -1,4 +1,4 @@
-# Diagrams
+# 📄 Diagrams
 
 ![](<../.gitbook/assets/book (1).png>)
 

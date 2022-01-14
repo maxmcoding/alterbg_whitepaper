@@ -1,4 +1,4 @@
-# Token
+# 📈 Token
 
 he Altered Battleground Token ($[AlterBg](https://bscscan.com/token/0xd343f58aCb66c23daBeadEA11F605165eDB4E5B0)) use ERC-20 / BEP-20 technology. Contract 0xd343f58aCb66c23daBeadEA11F605165eDB4E5B0
 

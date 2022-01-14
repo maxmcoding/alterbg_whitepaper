@@ -1,4 +1,4 @@
-# Item Rarity
+# 🔃 Item Rarity
 
 All the objects obtained within the game are categorized according to the type of rarity, which the closer to Legendary it is the more difficult to get them, but they will also have a higher quality.
 

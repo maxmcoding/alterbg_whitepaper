@@ -1,4 +1,4 @@
-# Weapons
+# 🏹 Weapons
 
 ![](<../.gitbook/assets/weapons (1).png>)
 

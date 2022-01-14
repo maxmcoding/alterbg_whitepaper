@@ -1,4 +1,4 @@
-# Types of NFT
+# 🌀 Types of NFT
 
 Game Items are categorized into 8 different NFT types, which have their own functionalities and / or characteristics. They can be obtained both by PvE battles and by exchanging them in the store.
 

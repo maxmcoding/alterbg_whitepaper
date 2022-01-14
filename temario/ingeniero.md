@@ -1,4 +1,4 @@
-# Engineer
+# 🔩 Engineer
 
 This particular NPC is a fundamental part of the game, since in it actions such as: manufacture of objects, repair of weapons, equipment improvements and others are carried out. You can find it both in the start menu and within each PvE game.
 
@@ -19,11 +19,11 @@ All payments made to the engineer and other entities of the game will be with ga
 
 Assuming for example that the price of each game [Token ](../token/token/)is = 2 BUSD, the prices of forging objects would be:
 
-* Scrap: 8 BUSD (  4 Game token )
-* Normal: 16 BUSD (  8 Game token )
-* Rare: 24 BUSD (  12 Game token )
-* Épic: 32 BUSD (  16 Game token )
-* Legendary: 40 BUSD (  20 Game token )
-* Mythic: 48 BUSD (  24  Game token )
+* Scrap: 8 BUSD ( 4 Game token )
+* Normal: 16 BUSD ( 8 Game token )
+* Rare: 24 BUSD ( 12 Game token )
+* Épic: 32 BUSD ( 16 Game token )
+* Legendary: 40 BUSD ( 20 Game token )
+* Mythic: 48 BUSD ( 24 Game token )
 
 Repair prices are equivalent to 10% of the manufacturing cost
