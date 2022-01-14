@@ -37,3 +37,4 @@
   * [Advisors](token/token/advisors.md)
 * [⛏ Token Mining](token/mineria-de-tokens-name.md)
 * [🛣 Roadmap](token/roadmap.md)
+* [👛 Wallet](token/wallet.md)
